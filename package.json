@@ -1,0 +1,14 @@
+{
+  "name": "graphQl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sahil",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "axios": "^1.7.7",
+    "graphql": "^16.9.0",
+    "graphql-tag": "^2.12.6"
+  }
+}
